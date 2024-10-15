@@ -1,0 +1,26 @@
+{
+  "name": "Derek Young",
+  "age": 51,
+  "address": {
+    "street": "Gohi Highway",
+    "city": "Inijuscos",
+    "state": "NC",
+    "zip": "97416"
+  },
+  "contact": {
+    "phone": "(330) 917-3576",
+    "servicePhone": "800761773"
+  },
+  "birthday": "1982-03-09T12:57:06.346Z",
+  "ip": "249.28.41.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Usimag na et el arugu vowirsul naol ubitaus fuap ommukug nok zazasa meb va pefni. Ha ufikita ehmut roem heg abmat uwkil ohaugu du utazecjuf mamtivzig cil dekafnac usimatwa cebvuj mi heimem. Osja ka tag ora faj fuh ikkonfi efuusoaj unacibuko ve tubin mefhomuk omu sumu ahefado. Or wes ujaid hambupu teakzur jisathi zeuhej suhwipen cu paabiho buznan howka vure dop al dizu talusuef.",
+    "bio": "Juvo ulegelef limgilug okesovo supim izhot oleawedo minlem neti tij ju odior cebul woofcev zenfohu nare odufuj dovez. Zofdorud tonbokupe bekjazvar muzledij nuada zot achogil wuhfogaje oceidkuk gane dug nezpudic. Kemizloj gubep imombus kuk zeru buhneoro budaboto va jabam le dosnijmof fu ogi him efiemmu oz aheleok. Wat tolloes ijupushiw ilo jo gosa sebobfi fejociw tic gekpohsu fi ocer fujkebaci urpoet ni ja mijrafa ti. Diebawu nurit ahdalliz tu zetelizi zem ahluti su oteuwa sozetcu fudpud mefoum wocamfaw cocwa karfako duzabku."
+  },
+  "apiKey": "948fbc8f113e30c3b05305f39f6f846f1c2619f0db0b803bbf557c81f1f5cffe",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
