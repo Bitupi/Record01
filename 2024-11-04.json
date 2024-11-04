@@ -1,0 +1,26 @@
+{
+  "name": "Josie Adams",
+  "age": 31,
+  "address": {
+    "street": "Negpo Court",
+    "city": "Filoafi",
+    "state": "MS",
+    "zip": "18306"
+  },
+  "contact": {
+    "phone": "(924) 883-8853",
+    "servicePhone": "800951784"
+  },
+  "birthday": "1965-07-03T09:46:26.766Z",
+  "ip": "8.211.167.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe pi gip nu tummunhej hep foegikod lu zodvug suzazdu iwnihsi jic ecpir fitwelohe gamizgi getzodloh merod imjida. Eckeri zevhiwe alwedru zagsamob bo mo jehni jozoeka giubala lobraku lav riha vamzat ze potner viih lod zubokes. Dumina fevarni neniz aded muzcuz mihgi fece fe gendi otainukim gu nicnu nus gehve uji ufelin.",
+    "bio": "Kap za bakfifwil zo osekisaj lozho gemnetfi eruczug dizu dow maow pal. Kigel pu fiovhi carom weuz jubelra nergisko gubno cir kaow wohab dalol rej zuhosuf sar tilhod durojav ihe. Lahaj jeca iteuco japbop zudifna ab ofja hakibiw hinouzu fojenil go lop."
+  },
+  "apiKey": "c9a0a91a24309d84a4c6af10c16294f8c5a76f13d2ba3e0b5b97cb13ac7167f3",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
