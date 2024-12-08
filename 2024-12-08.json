@@ -1,0 +1,26 @@
+{
+  "name": "Warren Harrington",
+  "age": 23,
+  "address": {
+    "street": "Jeneji Place",
+    "city": "Bogunu",
+    "state": "NM",
+    "zip": "59204"
+  },
+  "contact": {
+    "phone": "(214) 660-7365",
+    "servicePhone": "800357836"
+  },
+  "birthday": "1997-04-05T10:32:27.181Z",
+  "ip": "193.130.13.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Valinpij hoja hufad piuneafo nes boko va zewuami emkacut ic zocbon zag ro getagda dul. Tu guwtog ijmupbuj riiscuv loz mawebufi unwuw udaju nokro fi tabes pe aw. Posvuk sezewfet senuvahe afeboiri cutdew inuwofkuw romseri paz su me di her ecatapo bijoso aj.",
+    "bio": "Weef le lo ukefo hew de lu abapi comnus wuftuhi sar tempit siccek lecocaj kihmodro vut. Owi siummu kennim na onuji sa ga rokewu ajicip lecetji tozkidaf zaima isako rap duntogku. Gakozeka bugne fo rofam zu pizi ref wa moz icgooz vadza ma. Feato uju kesatbe vebgopo ziber pet tebhufi refupa lenup fokilme awu cuonsu zem ke sujle bozu siz id. Kuwic nusa joreput ci jeob en joegu necna puaj kike avi powano ejuduz."
+  },
+  "apiKey": "f4b762550558c20e16ffc7eb4b39fea104778896bb41c14c58e682a19b77b380",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
